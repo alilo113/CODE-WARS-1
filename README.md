@@ -1,1 +1,1 @@
-I've been solving some problems on code wars
+just solving problems on code wars
